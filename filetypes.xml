@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="db" type="Android Room SQL" />
       <mapping pattern="Android.mkmk" type="Native" />
+      <mapping ext="jks" type="Native" />
       <mapping ext="mk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
