@@ -5,7 +5,6 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern="Android.mkmk" type="Native" />
       <mapping ext="jks" type="Native" />
-      <mapping ext="mk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
