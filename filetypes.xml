@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="db" type="Android Room SQL" />
-      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Android.mkmk" type="Native" />
       <mapping ext="jks" type="Native" />
       <mapping pattern="namcd" type="PLAIN_TEXT" />
