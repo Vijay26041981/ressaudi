@@ -16,6 +16,7 @@
         <entry key="..\:/AndroidStudioProjects/namcd/app/src/main/res/layout/pay_item12.xml" value="0.1448087431693989" />
         <entry key="..\:/AndroidStudioProjects/namcd/app/src/main/res/layout/pwt_item.xml" value="0.1448087431693989" />
         <entry key="..\:/AndroidStudioProjects/namcd/app/src/main/res/layout/pwt_rep.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/namcd/app/src/main/res/layout/ran_item.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/namcd/app/src/main/res/layout/res_item.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/namcd/app/src/main/res/layout/swt.xml" value="0.1448087431693989" />
         <entry key="..\:/AndroidStudioProjects/namcd/app/src/main/res/layout/time_list.xml" value="0.1" />
@@ -44,6 +45,9 @@
         <entry key="..\:/AndroidStudioProjects/vfin/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/vfin/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/border.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/card_background.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/card_background_selector.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/card_state_pressed.xml" value="0.21822916666666667" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/edit_text.xml" value="0.21822916666666667" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/edit_text1.xml" value="0.21822916666666667" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/edit_text2.xml" value="0.21822916666666667" />
@@ -78,6 +82,7 @@
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/loanbal_list.xml" value="0.17708333333333334" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/loanlist_bal.xml" value="0.10733695652173914" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/payent.xml" value="0.18432971014492755" />
+        <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/popview.xml" value="0.18206521739130435" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/menu/main.xml" value="0.203125" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/menu/menu_cusdetails.xml" value="0.203125" />
       </map>
