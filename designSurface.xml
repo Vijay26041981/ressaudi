@@ -68,6 +68,7 @@
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/edit_textw.xml" value="0.21822916666666667" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/ic_baseline_account_balance_24.xml" value="0.21822916666666667" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/ic_baseline_addchart_24.xml" value="0.21822916666666667" />
+        <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.21822916666666667" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/ic_sharp_arrow_back_ios_24.xml" value="0.21822916666666667" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/ndview.xml" value="0.21822916666666667" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/drawable/nedit.xml" value="0.21822916666666667" />
@@ -91,6 +92,8 @@
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/cl_list.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/content_main.xml" value="0.1" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/content_scrolling.xml" value="0.1875" />
+        <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/daybookrep_fragment.xml" value="0.17255434782608695" />
+        <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/fragment_daybookrep.xml" value="0.17255434782608695" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/fragment_slideshow.xml" value="0.17708333333333334" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/frg_ent.xml" value="0.10507246376811594" />
         <entry key="..\:/AndroidStudioProjects/vfinance/app/src/main/res/layout/frg_home.xml" value="0.10507246376811594" />
